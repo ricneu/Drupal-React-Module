@@ -1,0 +1,6 @@
+{
+    "name": "drupal/establishment_react",
+    "description": "To get deeper into development with Drupal I started to build this Module.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+"
+}

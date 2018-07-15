@@ -1,0 +1,15 @@
+establishment_react_description:
+  path: 'establishment-react'
+  defaults:
+    _controller: '\Drupal\establishment_react\Controller\EstablishmentReactController::react'
+    _title: ''
+  requirements:
+    _permission: 'access content'
+
+establishment_react_json:
+  path: 'taxonomy-json'
+  defaults:
+    _controller: '\Drupal\establishment_react\Controller\EstablishmentReactController::json'
+    _title: ''
+  requirements:
+    _permission: 'access content'
